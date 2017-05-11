@@ -1,0 +1,55 @@
+<resources>
+    <!-- App title -->
+    <string name="app_name">Bruck Quiz</string>
+    <!-- Strings for question 1 -->
+    <string name="title1">For which building is Bruck the most famous for?</string>
+    <string name="subtitle1">Question One</string>
+    <string name="description1">When you enter the city you can see its newest landmark - the bridge of Europe, also called, \"the harp of Bruck\". But what is the most famous building of the city?</string>
+    <string name="answer1a">Kornmesser building</string>
+    <string name="answer1b">The Town Hall</string>
+    <string name="answer1c">The ruins of Castle Landskron</string>
+    <string name="answer1d">The Roman Bridge</string>
+    <!-- Strings for question 2 -->
+    <string name="title2">The main square was named after which historic person?</string>
+    <string name="subtitle2">Question Two</string>
+    <string name="description2">The city has a tradition of naming streets, places, parks and even a tree after famous historical people from different areas. Artists, politicians, scientists and other famous peoples names can be seen throughout the city. Often a short biography is added to the street signs. But who was the main square named after?</string>
+    <string name="answer2a">Bertha von Suttner (Nobel peace price winner)</string>
+    <string name="answer2b">Theodor Körner (advocate for easy access to education)</string>
+    <string name="answer2c">Koloman Wallisch (key member of resistance against Austrias catholic-fascist regime)</string>
+    <string name="answer2d">Margarete Schütte-Lihotzky (iconic architect of the era of "red Vienna")</string>
+    <!-- Strings for question 3 -->
+    <string name="title3">When was the great city fire?</string>
+    <string name="subtitle3">Question Three</string>
+    <string name="description3">Some time ago a fire destroyed or partly destroyed 164 of 166 buildings in the city. There is a saga that a local clown tried to inform the citizen about the fire but was not seriously by them. As a result the city burned to the ground. To remember that saga there is an annual street-art festival called \"Murenschalk\" that\'s named after the clown. But when did the fire happen?</string>
+    <string name="hint3">Please enter year</string>
+    <!-- Strings for question 4 -->
+    <string name="title4">What sites are part of the main square?</string>
+    <string name="subtitle4">Question Four (multiple answers possible)</string>
+    <string name="description4">The main square of bruck is one of the biggest inner-city squares of Austria. So... there\'s quite a bit of space and there are same interesting spots on the main square and surrounding it. But Bruck has quite a lot of sites to offer considering it\'s quite a small town in Austria. Which of the sites are at the main square?</string>
+    <string name="answer4a">The Iron Well</string>
+    <string name="answer4b">The Pillar of Holy Mary</string>
+    <string name="answer4c">The Town Hall</string>
+    <string name="answer4d">The Minoriten Church</string>
+    <string name="answer4e">The City Church</string>
+    <string name="answer4f">The Statue "Mercurio"</string>
+    <!-- Strings for question 5 -->
+    <string name="title5">What was the name of the city that fusioned with Bruck in 2015?</string>
+    <string name="subtitle5">Question Five</string>
+    <string name="description5">Bruck an der Mur is in the heart of the upper styrian steel industry region. With the crisis of this formerly state-owned insustry in the 1980s the pupulation went down year over year from over 18.000 in the early 1970s to around 13.000 in 2014. With the fusion of Bruck with one of its neighbor cities in 2015 the popualation went up again to over 15.000 citizens. With what city did Bruck fusion? </string>
+    <string name="hint5">Please enter the name of the city</string>
+    <!-- Strings for question 6 -->
+    <string name="title6">Which of these rivers flow through the city?</string>
+    <string name="subtitle6">Question Six (multiple answers possible)</string>
+    <string name="description6">When you enter the city you can see its newest landscape - the bridge of Europe, also called, "the harp of Bruck". But what is the most famous building of the city?</string>
+    <string name="answer6a">Mur</string>
+    <string name="answer6b">Salza</string>
+    <string name="answer6c">Laming</string>
+    <string name="answer6d">Mürz</string>
+    <string name="answer6e">Thörlbach</string>
+    <string name="answer6f">Pinka</string>
+    <!-- Strings used for Toast Messages -->
+    <string name="answersAllCorrect">Awesome! Everything correct!</string>
+    <string name="answersPartlyCorrectA">Correct answers:</string>
+    <string name="answersPartlyCorrectB">of 6</string>
+    <string name="answersMissing">Please answer all questions!</string>
+</resources>

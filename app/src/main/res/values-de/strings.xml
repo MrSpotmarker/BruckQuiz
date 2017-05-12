@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bruck Quiz</string>
+    <string name="answer1a">Kornmesserhaus</string>
+    <string name="answer1b">Rathaus</string>
+    <string name="answer1c">Die Burgruine Landskron</string>
+    <string name="answer1d">Die Römerbrücke</string>
+    <string name="answer2a">Bertha von Suttner (Gewinnerin Friedensnobelpreis)</string>
+    <string name="answer2b">Theodor Körner (Förderer der allgemeinen Bildung)</string>
+    <string name="answer2c">Koloman Wallisch (Schlüsselfigur im Widerstand gegen den Austrofaschismus)</string>
+    <string name="answer2d">Margarete Schütte-Lihotzky (ikonische Architektin in der Äre des \"roten Wien\")</string>
+    <string name="answer4a">Der eiserne Brunnen</string>
+    <string name="answer4b">Die Mariensäule</string>
+    <string name="answer4c">Das Rathaus</string>
+    <string name="answer4d">Die Minoritenkirche</string>
+    <string name="answer4e">Die Stadtpfarrkirche</string>
+    <string name="answer4f">Die Statue \"Mercurio\"</string>
+    <string name="answersAllCorrect">Fantastisch! Alles richtig!</string>
+    <string name="answersMissing">Bitte beantworten Sie alle Fragen!</string>
+    <string name="answersPartlyCorrectA">Richtige Antworten:</string>
+    <string name="answersPartlyCorrectB">von 6</string>
+    <string name="description1">Wenn man in die Stadt hinein fährt sieht man ihr jüngstes Wahrzeichen - die Europabrücke, auch \"Brucker Harfe\" genannt. Aber welches ist das berühmteste Gebäude der Stadt?</string>
+    <string name="description2">In der Stadt gibt es eine Tradition Straßen, Plätze und sogar einen Baum nach berühmten historischen Persönlichkeiten aus verschiedenen Bereichen zu benennen. KünstlerInnen, PolitikerInnen, WissenschaftlerInnen und andere berühmte Menschen trifft man so in der ganzen Stadt wieder. Aber nach wem wurde der Hauptplatz benannt?</string>
+    <string name="description3">Vor einiger Zeit hat ein Feuer 164 von 166 Gebäuden der Stadt ganz oder teilweise zerstört. Es gibt eine Sage nach der ein lokaler Schalk versucht hat, die BürgerInnen der Stadt zu warnen. Er wurde aber von diesen nicht ernst genommen und als Ergebnis brannte die ganze Stadt nieder. Zur Erinnerung an diese Sage gibt es ein jährliches Straßenfestival mit dem Namen \"Murenschalk\", das nach der Sage benannt ist. Aber in welchem Jahr ist das Feuer ausgebrochen?</string>
+    <string name="description4">Der Hauptplatz ist einer der größten innerstädtischen Plätze Österreichs. Also... gibt es reichlich Platz und es gibt auch einige interessante Dinge am und um den Hauptplatz zu sehen. Aber Bruck hat eine ganze Menge Sehenswürdigkeiten auch abseits des Hauptplatzes zu bieten. Welche davon befinden sich am Hauptplatz?</string>
+    <string name="hint3">Bitte Jahreszahl eingeben</string>
+    <string name="hint5">Bitte den Namen der Stadt eingeben</string>
+    <string name="subtitle1">Frage Eins</string>
+    <string name="subtitle2">Frage Zwei</string>
+    <string name="subtitle3">Frage Drei</string>
+    <string name="subtitle4">Frage Vier (mehrere Antwortmöglichkeiten)</string>
+    <string name="subtitle5">Frage Fünf</string>
+    <string name="subtitle6">Frage Sechs (mehrere Antwortmöglichkeiten)</string>
+    <string name="title1">Welches ist das berühmteste Gebäude der Stadt?</string>
+    <string name="title2">Nach welcher Person ist der Hauptplatz benannt?</string>
+    <string name="title3">Wann war der große Stadtbrand?</string>
+    <string name="title4">Welche Sehenswürdigkeiten sind Teil des Hauptplatzes?</string>
+    <string name="title5">Mit welcher Stadt fusionierte Bruck im Jahr 2015?</string>
+    <string name="title6">Welcher dieser Gewässer fließt durch die Stadt?</string>
+    <string name="description5">Bruck an der Mur liegt im Herzen der obersteirischen Stahlregion. Mit der Krise der Stahlindustrie in den 1980ern ging auch die Bevölkerung von über 18.000 EinwohnerInnen Anfang der 1970er auf rund 13.000 in 2014 zurück. Durch die Fusion mit einer der Nachbarstädte im Jahr 2015 ist die Population wieder auf über 15.000 EinwohnerInnen angestiegen. Mit welcher Stadt fusionierte Bruck?</string>
+    <string name="description6">Der Name der Stadt leitet sich von einer Brücke ab, die über die Mur geht. Brücken und Flüsse waren jahrhundertelang für die Stadt und deren Entwicklung von großer Bedeutung. Das Stadtwappen trägt dem Rechnung, indem es eine Brücke zeigt, die über einen Fluss fließt. Welche dieser Gewässer fließen durch Bruck an der Mur?</string>
+</resources>

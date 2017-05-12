@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
             numberOfCorrectAnswers += 1;
         }
         // Second Radio button pressed
-        if (answerQuestionTwo.equals("1")) {
+        if (answerQuestionTwo.equals("2")) {
             numberOfCorrectAnswers += 1;
         }
         // A tough one :) - the year is 1792
@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
             numberOfCorrectAnswers += 1;
         }
         // The lovely town of Oberaich
-        if (answerQuestionFive.equals("Oberaich")) {
+        if (answerQuestionFive.equals("Oberaich") || answerQuestionFive.equals("oberaich")) {
             numberOfCorrectAnswers += 1;
         }
         // Boxes 1, 3 and 4 are checked

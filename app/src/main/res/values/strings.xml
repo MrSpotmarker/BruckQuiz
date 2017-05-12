@@ -10,7 +10,7 @@
     <string name="answer1c">The ruins of Castle Landskron</string>
     <string name="answer1d">The Roman Bridge</string>
     <!-- Strings for question 2 -->
-    <string name="title2">The main square was named after which historic person?</string>
+    <string name="title2">The main square was named after which  person?</string>
     <string name="subtitle2">Question Two</string>
     <string name="description2">The city has a tradition of naming streets, places, parks and even a tree after famous historical people from different areas. Artists, politicians, scientists and other famous peoples names can be seen throughout the city. Often a short biography is added to the street signs. But who was the main square named after?</string>
     <string name="answer2a">Bertha von Suttner (Nobel peace price winner)</string>
@@ -20,7 +20,7 @@
     <!-- Strings for question 3 -->
     <string name="title3">When was the great city fire?</string>
     <string name="subtitle3">Question Three</string>
-    <string name="description3">Some time ago a fire destroyed or partly destroyed 164 of 166 buildings in the city. There is a saga that a local clown tried to inform the citizen about the fire but was not seriously by them. As a result the city burned to the ground. To remember that saga there is an annual street-art festival called \"Murenschalk\" that\'s named after the clown. But when did the fire happen?</string>
+    <string name="description3">Some time ago a fire destroyed or partly destroyed 164 of 166 buildings in the city. There is a saga that a local clown tried to inform the citizen about the fire but was not seriously by them. As a result the city burned to the ground. To remember that saga there is an annual street-art festival called \"Murenschalk\" that\'s named after the saga. But in what year did the fire happen?</string>
     <string name="hint3">Please enter year</string>
     <!-- Strings for question 4 -->
     <string name="title4">What sites are part of the main square?</string>
@@ -40,13 +40,13 @@
     <!-- Strings for question 6 -->
     <string name="title6">Which of these rivers flow through the city?</string>
     <string name="subtitle6">Question Six (multiple answers possible)</string>
-    <string name="description6">When you enter the city you can see its newest landscape - the bridge of Europe, also called, "the harp of Bruck". But what is the most famous building of the city?</string>
-    <string name="answer6a">Mur</string>
-    <string name="answer6b">Salza</string>
-    <string name="answer6c">Laming</string>
-    <string name="answer6d">Mürz</string>
-    <string name="answer6e">Thörlbach</string>
-    <string name="answer6f">Pinka</string>
+    <string name="description6">The origin of the city\'s name comes from a bridge crossing the river Mur. Bridges and Rivers were of significent importance for the city and its development for centuries. The city\'s coat of arms contributes this by showing a bridge and a river. Which of these rivers run through Bruck an der Mur?</string>
+    <string name="answer6a" translatable="false">Mur</string>
+    <string name="answer6b" translatable="false">Salza</string>
+    <string name="answer6c" translatable="false">Laming</string>
+    <string name="answer6d" translatable="false">Mürz</string>
+    <string name="answer6e" translatable="false">Thörlbach</string>
+    <string name="answer6f" translatable="false">Pinka</string>
     <!-- Strings used for Toast Messages -->
     <string name="answersAllCorrect">Awesome! Everything correct!</string>
     <string name="answersPartlyCorrectA">Correct answers:</string>

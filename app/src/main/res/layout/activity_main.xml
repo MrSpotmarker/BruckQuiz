@@ -11,7 +11,7 @@
         android:id="@+id/floatingActionButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom|right"
+        android:layout_gravity="bottom|end"
         android:layout_marginBottom="24dp"
         android:layout_marginRight="24dp"
         android:clickable="true"
@@ -23,10 +23,13 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <LinearLayout style="@style/CardLinearLayout">
+
             <android.support.v7.widget.CardView
                 android:id="@+id/cardQuestion1"
                 style="@style/CardLayout">
+
                 <LinearLayout style="@style/CardLinearLayout">
 
                     <ImageView
@@ -78,6 +81,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardQuestion2"
                 style="@style/CardLayout">
+
                 <LinearLayout style="@style/CardLinearLayout">
 
                     <ImageView
@@ -129,6 +133,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardQuestion3"
                 style="@style/CardLayout">
+
                 <LinearLayout style="@style/CardLinearLayout">
 
                     <ImageView
@@ -159,6 +164,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardQuestion4"
                 style="@style/CardLayout">
+
                 <LinearLayout style="@style/CardLinearLayout">
 
                     <ImageView
@@ -218,6 +224,7 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardQuestion5"
                 style="@style/CardLayout">
+
                 <LinearLayout style="@style/CardLinearLayout">
 
                     <ImageView
@@ -247,7 +254,9 @@
             <android.support.v7.widget.CardView
                 android:id="@+id/cardQuestion6"
                 style="@style/CardLayout">
+
                 <LinearLayout style="@style/CardLinearLayout">
+
                     <ImageView
                         style="@style/CardImageView"
                         android:src="@drawable/wappen" />
